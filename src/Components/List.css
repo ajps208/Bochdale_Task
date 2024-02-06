@@ -1,0 +1,18 @@
+.main{
+    width: 95%;
+}
+.button{
+    background: radial-gradient(circle at 10% 20%, rgb(0, 0, 0) 0%, rgb(64, 64, 64) 90.2%);
+
+}
+.fontstyle{
+  font-family:cursive
+}
+.card {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .card:hover {
+    transform: scale(1.01);
+  }
+  
